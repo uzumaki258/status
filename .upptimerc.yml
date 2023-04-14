@@ -13,7 +13,7 @@ sites:
     url: $MOBILESEARCHLS
     method: GET
     headers:
-      "Authorization: Bearer $LS_TOKEN"
+    - "Authorization: Bearer $LS_TOKEN"
     expect:
       statusCode: 200
       body:
