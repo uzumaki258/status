@@ -48,10 +48,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.appixi.net
-  theme: ocean
+  theme: night
   #baseUrl: status.appixi.net
   logoUrl: https://appixi.net/assets/img/logo/logo.svg
-  name: Appixi Upptime
+  #name: Appixi Upptime
   introTitle: "Welcome to Appixi Status Page"
   introMessage: This is a Appixi status page which uses **real-time** data from our [GitHub repository](https://github.com/uzumaki258/status). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
