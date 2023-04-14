@@ -34,7 +34,7 @@ sites:
     assignees:
       - uzumaki258
   - name: Third Party
-    url: THIRD_PARTY_URL
+    url: $THIRD_PARTY_URL
     assignees:
       - uzumaki258
     headers:
