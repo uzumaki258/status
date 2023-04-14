@@ -50,8 +50,9 @@ status-website:
   cname: status.appixi.net
   theme: night
   #baseUrl: status.appixi.net
-  logoUrl: https://appixi.net/assets/img/logo/logo.svg
-  name: Status
+  logoUrl: https://appixi.net/assets/img/logo/logo_single.svg
+  favicon: https://appixi.net/assets/img/favicon.ico
+  name: Appixi Status
   introTitle: "Welcome to Appixi Status Page"
   introMessage: This is a Appixi status page which uses **real-time** data from our [GitHub repository](https://github.com/uzumaki258/status). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
