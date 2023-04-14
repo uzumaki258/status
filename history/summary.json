@@ -1,8 +1,8 @@
 [
   {
     "name": "DataTrungWeb",
-    "url": "https://ls.appixi.net/",
-    "icon": "https://icons.duckduckgo.com/ip3/ls.appixi.net.ico",
+    "url": "$DATATRUNGWEB",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-trung-web",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 176,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "time": 195,
+    "timeDay": 195,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   }
 ]
