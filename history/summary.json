@@ -95,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party",
     "status": "up",
-    "uptime": "2.91%",
-    "uptimeDay": "2.91%",
-    "uptimeWeek": "2.91%",
-    "uptimeMonth": "2.91%",
-    "uptimeYear": "2.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1131,
     "timeDay": 1131,
     "timeWeek": 1131,
     "timeMonth": 1131,
     "timeYear": 1131,
-    "dailyMinutesDown": {
-      "2023-04-14": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Third Party IMG",
