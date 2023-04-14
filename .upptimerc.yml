@@ -9,6 +9,18 @@ sites:
     url: $MAINDATALSWEB
   - name: IMG SERVICE
     url: $IMG_SERVICE
+  - name: Mobile Search LS
+    url: $MOBILESEARCHLS
+    method: GET
+    headers:
+      Authorization: Bearer $LS_TOKEN
+    expect:
+      statusCode: 200
+      body:
+        success: true
+        data:
+          items:
+            - name: "$SEARCH_TERM"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
