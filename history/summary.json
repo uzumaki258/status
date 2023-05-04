@@ -86,11 +86,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vultr-object",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "98.62%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
     "time": 284,
     "timeDay": 295,
     "timeWeek": 223,
@@ -106,10 +106,10 @@
     "url": "$THIRD_PARTY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1265,
@@ -117,16 +117,18 @@
     "timeWeek": 1247,
     "timeMonth": 1265,
     "timeYear": 1265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 1
+    }
   },
   {
     "name": "Third Party IMG",
     "url": "$THIRD_PARTY_IMG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party-img",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -136,6 +138,7 @@
     "timeMonth": 1271,
     "timeYear": 1271,
     "dailyMinutesDown": {
+      "2023-05-04": 0,
       "2023-04-15": 18
     }
   }
