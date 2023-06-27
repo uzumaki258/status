@@ -40,6 +40,9 @@ sites:
       statusCode: 200
       body:
         success: true
+        data:
+          items:
+            - name: "$DETAIL_SEARCH_TERM"
   - name: Vultr Object
     url: $VULTR_OBJECT
     assignees:
