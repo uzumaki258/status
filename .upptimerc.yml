@@ -34,8 +34,6 @@ sites:
     assignees:
       - uzumaki258
     method: GET
-    headers:
-    - "Authorization: Bearer $LS_TOKEN"
     expect:
       statusCode: 200
       body:
