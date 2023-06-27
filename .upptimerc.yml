@@ -29,6 +29,20 @@ sites:
         data:
           items:
             - name: "$SEARCH_TERM"
+  - name: Detail Mobile LS
+    url: $DETAIL_MOBILE_URL
+    assignees:
+      - uzumaki258
+    method: GET
+    headers:
+    - "Authorization: Bearer $LS_TOKEN"
+    expect:
+      statusCode: 200
+      body:
+        success: true
+        data:
+          items:
+            - name: "$DETAIL_SEARCH_TERM"
   - name: Vultr Object
     url: $VULTR_OBJECT
     assignees:
