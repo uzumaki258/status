@@ -156,9 +156,9 @@
     "url": "$THIRD_PARTY_IMG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party-img",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -168,6 +168,7 @@
     "timeMonth": 1398,
     "timeYear": 1329,
     "dailyMinutesDown": {
+      "2023-07-08": 0,
       "2023-06-08": 19,
       "2023-04-15": 18
     }
