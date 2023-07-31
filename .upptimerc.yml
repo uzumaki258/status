@@ -70,7 +70,7 @@ sites:
         active: true
         remaining:
           total: null
-- name: Backup Rb
+  - name: Backup Rb
     url: $BACKUP_URL
     assignees:
       - uzumaki258
@@ -83,7 +83,7 @@ sites:
         active: true
         remaining:
           total: null
-- name: Backup Kg
+  - name: Backup Kg
     url: $BACKUP_URL
     assignees:
       - uzumaki258
@@ -96,7 +96,7 @@ sites:
         active: true
         remaining:
           total: null
-- name: Backup Cu
+  - name: Backup Cu
     url: $BACKUP_URL
     assignees:
       - uzumaki258
