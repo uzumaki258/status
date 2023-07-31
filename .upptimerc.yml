@@ -70,8 +70,48 @@ sites:
         active: true
         remaining:
           total: null
+
+- name: Backup Rb
+    url: $BACKUP_URL
+    assignees:
+      - uzumaki258
+    method: GET
+    headers:
+      - "Api-Key: $KEY_RB"
+    expect:
+      statusCode: 200
+      body:
+        active: true
+        remaining:
+          total: null
     
-    
+- name: Backup Kg
+    url: $BACKUP_URL
+    assignees:
+      - uzumaki258
+    method: GET
+    headers:
+      - "Api-Key: $KEY_KG"
+    expect:
+      statusCode: 200
+      body:
+        active: true
+        remaining:
+          total: null
+
+- name: Backup Cu
+    url: $BACKUP_URL
+    assignees:
+      - uzumaki258
+    method: GET
+    headers:
+      - "Api-Key: $KEY_CU"
+    expect:
+      statusCode: 200
+      body:
+        active: true
+        remaining:
+          total: null
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
