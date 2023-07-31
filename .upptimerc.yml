@@ -70,7 +70,6 @@ sites:
         active: true
         remaining:
           total: null
-
 - name: Backup Rb
     url: $BACKUP_URL
     assignees:
@@ -84,7 +83,6 @@ sites:
         active: true
         remaining:
           total: null
-    
 - name: Backup Kg
     url: $BACKUP_URL
     assignees:
@@ -98,7 +96,6 @@ sites:
         active: true
         remaining:
           total: null
-
 - name: Backup Cu
     url: $BACKUP_URL
     assignees:
@@ -112,7 +109,6 @@ sites:
         active: true
         remaining:
           total: null
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
