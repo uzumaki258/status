@@ -193,19 +193,19 @@
     "url": "$BACKUP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-uq",
-    "status": "down",
-    "uptime": "96.62%",
-    "uptimeDay": "96.62%",
-    "uptimeWeek": "96.62%",
-    "uptimeMonth": "96.62%",
-    "uptimeYear": "96.62%",
-    "time": 822,
-    "timeDay": 822,
-    "timeWeek": 822,
-    "timeMonth": 822,
-    "timeYear": 822,
+    "status": "up",
+    "uptime": "68.52%",
+    "uptimeDay": "68.52%",
+    "uptimeWeek": "68.52%",
+    "uptimeMonth": "68.52%",
+    "uptimeYear": "68.52%",
+    "time": 957,
+    "timeDay": 957,
+    "timeWeek": 957,
+    "timeMonth": 957,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2023-07-31": 0
+      "2023-07-31": 2
     }
   }
 ]
