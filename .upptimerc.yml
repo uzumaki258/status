@@ -57,6 +57,21 @@ sites:
     url: $THIRD_PARTY_IMG
     assignees:
       - uzumaki258
+  - name: Backup Uq
+    url: $BACKUP_URL
+    assignees:
+      - uzumaki258
+    method: GET
+    headers:
+      - "Api-Key: $KEY_UQ"
+    expect:
+      statusCode: 200
+      body:
+        active: true
+        remaining:
+          total: null
+    
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
