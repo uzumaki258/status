@@ -43,6 +43,28 @@ sites:
         data:
           items:
             - name: "$DETAIL_SEARCH_TERM"
+  - name: Mobile Top Click
+    url: $MOBILE_TOP_CLICK
+    assignees:
+      - uzumaki258
+    method: GET
+    headers:
+    - "Authorization: Bearer $LS_TOKEN"
+    expect:
+      statusCode: 200
+      body:
+        success: true
+  - name: Mobile Search Tag
+    url: $MOBILE_SEACH_TAG
+    assignees:
+      - uzumaki258
+    method: GET
+    headers:
+    - "Authorization: Bearer $LS_TOKEN"
+    expect:
+      statusCode: 200
+      body:
+        success: true
   - name: Vultr Object
     url: $VULTR_OBJECT
     assignees:
