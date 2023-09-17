@@ -1,7 +1,7 @@
 url: $VULTR_OBJECT
-status: down
-code: 502
-responseTime: 90
-lastUpdated: 2023-09-17T08:32:26.823Z
+status: up
+code: 200
+responseTime: 259
+lastUpdated: 2023-09-17T08:44:28.905Z
 startTime: 2023-04-14T10:01:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
