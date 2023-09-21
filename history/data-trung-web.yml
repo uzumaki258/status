@@ -1,7 +1,7 @@
 url: $DATATRUNGWEB
-status: up
-code: 200
-responseTime: 74
-lastUpdated: 2023-09-21T23:16:03.454Z
+status: down
+code: 502
+responseTime: 50
+lastUpdated: 2023-09-21T23:29:23.744Z
 startTime: 2023-04-14T08:26:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
