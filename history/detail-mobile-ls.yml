@@ -1,7 +1,7 @@
 url: $DETAIL_MOBILE_URL
-status: up
-code: 200
-responseTime: 44
-lastUpdated: 2023-10-09T03:07:28.541Z
+status: down
+code: 401
+responseTime: 93
+lastUpdated: 2023-10-09T03:22:51.282Z
 startTime: 2023-06-27T15:41:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
