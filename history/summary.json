@@ -283,11 +283,11 @@
     "url": "$VULTR_OBJECT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vultr-object",
-    "status": "up",
+    "status": "down",
     "uptime": "97.51%",
-    "uptimeDay": "58.98%",
+    "uptimeDay": "58.96%",
     "uptimeWeek": "94.14%",
-    "uptimeMonth": "98.22%",
+    "uptimeMonth": "98.21%",
     "uptimeYear": "97.51%",
     "time": 1699,
     "timeDay": 2349,
@@ -339,7 +339,7 @@
       "2023-06-13": 17,
       "2023-06-11": 17,
       "2023-06-09": 36,
-      "2023-06-07": 52
+      "2023-06-07": 36
     }
   },
   {
