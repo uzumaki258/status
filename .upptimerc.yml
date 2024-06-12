@@ -137,22 +137,27 @@ sites:
     method: GET
     statusCode: 200
     customScript: |
-      response=$(curl --silent --location '$EM_API')
+      echo "Starting custom script..."
+      response=$(curl --silent --location '${{ secrets.EM_API }}')
+      echo "Response: $response"
       token=$(echo $response | jq -r '.data.em_token')
+      echo "Token: $token"
       if [ -z "$token" ]; then
         echo "Failed to retrieve token."
         exit 1
       fi
       payload=$(echo $token | cut -d '.' -f 2 | base64 --decode --ignore-garbage)
+      echo "Payload: $payload"
       exp=$(echo $payload | jq -r '.exp')
+      echo "Expiration time: $exp"
       current_time=$(date +%s)
-      if [ true ]; then
+      echo "Current time: $current_time"
+      if [ true ]; then  # Force the condition to always be true
         echo "The token is expired."
         exit 1
       else
         echo "The token is valid."
         exit 0
-      fi
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
