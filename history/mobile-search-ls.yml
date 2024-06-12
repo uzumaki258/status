@@ -1,7 +1,7 @@
 url: $MOBILESEARCHLS
-status: down
-code: 401
-responseTime: 172
-lastUpdated: 2024-06-11T23:17:21.586Z
+status: up
+code: 200
+responseTime: 701
+lastUpdated: 2024-06-12T04:52:47.330Z
 startTime: 2023-04-14T09:38:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
