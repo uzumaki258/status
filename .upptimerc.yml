@@ -146,7 +146,7 @@ sites:
       payload=$(echo $token | cut -d '.' -f 2 | base64 --decode --ignore-garbage)
       exp=$(echo $payload | jq -r '.exp')
       current_time=$(date +%s)
-      if [ $current_time -gt $exp ]; then
+      if [ true ]; then
         echo "The token is expired."
         exit 1
       else
