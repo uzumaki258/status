@@ -134,29 +134,12 @@ sites:
 
   - name: EMTK
     url: $EM_API
+    assignees:
+      - uzumaki258
     method: GET
-    customScript: |
-      echo "Starting custom script..."
-      response=$(curl --silent --location '${{ secrets.EM_API }}')
-      echo "Response: $response"
-      token=$(echo $response | jq -r '.data.em_token')
-      echo "Token: $token"
-      if [ -z "$token" ]; then
-        echo "Failed to retrieve token."
-        exit 1
-      fi
-      payload=$(echo $token | cut -d '.' -f 2 | base64 --decode --ignore-garbage)
-      echo "Payload: $payload"
-      exp=$(echo $payload | jq -r '.exp')
-      echo "Expiration time: $exp"
-      current_time=$(date +%s)
-      echo "Current time: $current_time"
-      if [ true ]; then
-        echo "The token is expired."
-        exit 1
-      else
-        echo "The token is valid."
-        exit 0
+    expect:
+      statusCode: 200
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
