@@ -135,7 +135,6 @@ sites:
   - name: EMTK
     url: $EM_API
     method: GET
-    statusCode: 200
     customScript: |
       echo "Starting custom script..."
       response=$(curl --silent --location '${{ secrets.EM_API }}')
@@ -152,7 +151,7 @@ sites:
       echo "Expiration time: $exp"
       current_time=$(date +%s)
       echo "Current time: $current_time"
-      if [ true ]; then  # Force the condition to always be true
+      if [ true ]; then
         echo "The token is expired."
         exit 1
       else
