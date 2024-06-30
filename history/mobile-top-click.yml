@@ -1,7 +1,7 @@
 url: $MOBILE_TOP_CLICK
-status: up
-code: 200
-responseTime: 972
-lastUpdated: 2024-06-29T23:18:17.723Z
+status: down
+code: 400
+responseTime: 559
+lastUpdated: 2024-06-30T22:40:58.618Z
 startTime: 2023-08-01T03:07:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
