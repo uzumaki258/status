@@ -256,7 +256,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "detail-mobile-ls",
     "status": "up",
-    "uptime": "60.31%",
+    "uptime": "60.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.45%",
@@ -446,12 +446,12 @@
     "uptime": "57.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.37%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "56.96%",
     "time": 660,
     "timeDay": 952,
     "timeWeek": 990,
-    "timeMonth": 1715,
+    "timeMonth": 1724,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2024-07-21": 109,
@@ -815,9 +815,9 @@
     "slug": "vultr-object",
     "status": "up",
     "uptime": "97.24%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "96.41%",
     "time": 1840,
     "timeDay": 119,
@@ -825,7 +825,6 @@
     "timeMonth": 274,
     "timeYear": 1974,
     "dailyMinutesDown": {
-      "2024-07-31": 11,
       "2024-07-29": 83,
       "2024-07-28": 46,
       "2024-07-26": 45,
@@ -886,7 +885,7 @@
       "2023-08-14": 122,
       "2023-08-13": 150,
       "2023-08-11": 16,
-      "2023-08-10": 58
+      "2023-08-10": 90
     }
   },
   {
