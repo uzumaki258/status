@@ -255,7 +255,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "detail-mobile-ls",
     "status": "up",
-    "uptime": "61.65%",
+    "uptime": "61.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
@@ -880,8 +880,7 @@
       "2023-08-26": 17,
       "2023-08-25": 795,
       "2023-08-24": 99,
-      "2023-08-23": 543,
-      "2023-08-16": 151
+      "2023-08-23": 543
     }
   },
   {
