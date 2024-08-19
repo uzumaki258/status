@@ -256,7 +256,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "detail-mobile-ls",
     "status": "up",
-    "uptime": "62.02%",
+    "uptime": "62.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
@@ -812,18 +812,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vultr-object",
     "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "95.87%",
-    "uptimeWeek": "95.44%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "96.41%",
+    "uptime": "97.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "96.40%",
     "time": 1793,
-    "timeDay": 275,
+    "timeDay": 363,
     "timeWeek": 277,
     "timeMonth": 264,
     "timeYear": 2106,
     "dailyMinutesDown": {
-      "2024-08-18": 51,
+      "2024-08-18": 46,
       "2024-08-17": 193,
       "2024-08-16": 22,
       "2024-08-15": 100,
@@ -885,7 +885,7 @@
       "2023-08-26": 17,
       "2023-08-25": 795,
       "2023-08-24": 99,
-      "2023-08-23": 390
+      "2023-08-23": 407
     }
   },
   {
