@@ -889,9 +889,9 @@
     "slug": "third-party",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.51%",
     "time": 1348,
     "timeDay": 1652,
@@ -899,7 +899,6 @@
     "timeMonth": 1712,
     "timeYear": 1348,
     "dailyMinutesDown": {
-      "2024-09-04": 11,
       "2024-09-02": 71,
       "2024-09-01": 21,
       "2024-07-21": 75,
@@ -969,7 +968,8 @@
       "2023-10-27": 17,
       "2023-10-26": 31,
       "2023-10-18": 20,
-      "2023-10-14": 66
+      "2023-10-14": 66,
+      "2023-10-11": 18
     }
   },
   {
@@ -979,9 +979,9 @@
     "slug": "third-party-img",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 1291,
     "timeDay": 1396,
@@ -989,7 +989,6 @@
     "timeMonth": 1308,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2024-09-04": 11,
       "2024-07-11": 19,
       "2024-07-08": 27,
       "2024-07-07": 17,
@@ -1061,7 +1060,7 @@
       "2023-09-22": 19,
       "2023-09-21": 53,
       "2023-09-19": 79,
-      "2023-09-18": 0
+      "2023-09-18": 17
     }
   },
   {
@@ -1133,18 +1132,19 @@
     "url": "$EM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emtk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "98.55%",
     "uptimeYear": "99.13%",
-    "time": 8770,
-    "timeDay": 17373,
-    "timeWeek": 14423,
-    "timeMonth": 11737,
-    "timeYear": 8770,
+    "time": 8833,
+    "timeDay": 17749,
+    "timeWeek": 14741,
+    "timeMonth": 11847,
+    "timeYear": 8833,
     "dailyMinutesDown": {
+      "2024-09-04": 1,
       "2024-08-29": 20,
       "2024-08-26": 26,
       "2024-08-25": 31,
