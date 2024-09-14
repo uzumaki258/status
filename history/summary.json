@@ -66,7 +66,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "58.22%",
+    "uptimeYear": "58.23%",
     "time": 869,
     "timeDay": 1670,
     "timeWeek": 1028,
@@ -240,8 +240,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -254,7 +253,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "58.25%",
+    "uptimeYear": "58.26%",
     "time": 125,
     "timeDay": 142,
     "timeWeek": 113,
@@ -421,8 +420,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -431,11 +429,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mobile-top-click",
     "status": "up",
-    "uptime": "61.67%",
+    "uptime": "61.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.24%",
+    "uptimeYear": "58.25%",
     "time": 703,
     "timeDay": 1014,
     "timeWeek": 1016,
@@ -601,8 +599,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -611,11 +608,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mobile-search-tag",
     "status": "up",
-    "uptime": "61.70%",
+    "uptime": "61.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.26%",
+    "uptimeYear": "58.28%",
     "time": 164,
     "timeDay": 99,
     "timeWeek": 100,
@@ -779,8 +776,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -788,19 +784,20 @@
     "url": "$VULTR_OBJECT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vultr-object",
-    "status": "down",
-    "uptime": "97.61%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "96.63%",
+    "status": "up",
+    "uptime": "97.60%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "96.62%",
     "time": 1952,
-    "timeDay": 154,
-    "timeWeek": 268,
-    "timeMonth": 285,
-    "timeYear": 2310,
+    "timeDay": 199,
+    "timeWeek": 265,
+    "timeMonth": 284,
+    "timeYear": 2306,
     "dailyMinutesDown": {
-      "2024-09-13": 1,
+      "2024-09-14": 69,
+      "2024-09-13": 5,
       "2024-09-11": 56,
       "2024-08-24": 242,
       "2024-08-22": 28,
@@ -853,8 +850,7 @@
       "2023-09-22": 334,
       "2023-09-21": 18,
       "2023-09-18": 21,
-      "2023-09-17": 17,
-      "2023-09-15": 23
+      "2023-09-17": 17
     }
   },
   {
