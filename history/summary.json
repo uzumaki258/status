@@ -224,7 +224,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "detail-mobile-ls",
     "status": "up",
-    "uptime": "71.11%",
+    "uptime": "71.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.87%",
@@ -542,7 +542,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mobile-search-tag",
     "status": "up",
-    "uptime": "69.57%",
+    "uptime": "69.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -755,10 +755,10 @@
     "url": "$THIRD_PARTY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.51%",
     "time": 1423,
@@ -767,6 +767,7 @@
     "timeMonth": 1361,
     "timeYear": 1442,
     "dailyMinutesDown": {
+      "2024-12-29": 1,
       "2024-12-28": 19,
       "2024-12-21": 32,
       "2024-12-14": 46,
@@ -837,8 +838,7 @@
       "2024-05-28": 21,
       "2024-05-27": 17,
       "2024-05-26": 53,
-      "2024-05-25": 45,
-      "2024-05-21": 16
+      "2024-05-25": 45
     }
   },
   {
@@ -846,18 +846,19 @@
     "url": "$THIRD_PARTY_IMG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party-img",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.54%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.55%",
     "time": 1275,
     "timeDay": 1118,
     "timeWeek": 1235,
     "timeMonth": 1218,
     "timeYear": 1274,
     "dailyMinutesDown": {
+      "2024-12-29": 0,
       "2024-12-28": 19,
       "2024-12-21": 31,
       "2024-12-14": 45,
@@ -930,8 +931,7 @@
       "2024-05-04": 40,
       "2024-05-03": 80,
       "2024-04-29": 25,
-      "2024-04-24": 19,
-      "2024-04-20": 16
+      "2024-04-24": 19
     }
   },
   {
