@@ -1,7 +1,7 @@
 url: $EM_API
-status: up
-code: 200
-responseTime: 167
-lastUpdated: 2025-02-08T19:11:31.927Z
+status: down
+code: 500
+responseTime: 292
+lastUpdated: 2025-02-08T20:25:54.038Z
 startTime: 2024-06-12T07:32:59.055Z
 generator: Upptime <https://github.com/upptime/upptime>
