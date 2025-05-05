@@ -1,7 +1,7 @@
 url: $MOBILE_SEACH_TAG
-status: down
-code: 400
-responseTime: 153
-lastUpdated: 2025-05-05T23:44:06.596Z
+status: up
+code: 200
+responseTime: 112
+lastUpdated: 2025-05-05T23:56:03.571Z
 startTime: 2023-08-01T03:07:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
