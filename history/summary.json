@@ -14,7 +14,7 @@
     "timeDay": 335,
     "timeWeek": 251,
     "timeMonth": 236,
-    "timeYear": 240,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2025-02-12": 19
     }
@@ -34,7 +34,7 @@
     "timeDay": 293,
     "timeWeek": 240,
     "timeMonth": 274,
-    "timeYear": 248,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2025-01-15": 23,
       "2024-11-26": 16
@@ -76,7 +76,7 @@
     "timeDay": 7073,
     "timeWeek": 4833,
     "timeMonth": 4144,
-    "timeYear": 2159,
+    "timeYear": 2166,
     "dailyMinutesDown": {
       "2025-06-01": 67,
       "2025-05-29": 980,
@@ -109,7 +109,7 @@
     "timeDay": 209,
     "timeWeek": 119,
     "timeMonth": 129,
-    "timeYear": 189,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2025-06-01": 67,
       "2025-05-31": 24,
@@ -143,7 +143,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mobile-top-click",
     "status": "up",
-    "uptime": "76.76%",
+    "uptime": "76.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.52%",
@@ -152,7 +152,7 @@
     "timeDay": 287,
     "timeWeek": 155,
     "timeMonth": 2125,
-    "timeYear": 2004,
+    "timeYear": 2010,
     "dailyMinutesDown": {
       "2025-06-01": 67,
       "2025-05-31": 22,
@@ -223,7 +223,7 @@
     "timeDay": 178,
     "timeWeek": 315,
     "timeMonth": 316,
-    "timeYear": 308,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2025-02-20": 63,
       "2025-01-12": 29,
@@ -257,19 +257,19 @@
     "url": "$THIRD_PARTY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "97.00%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "96.99%",
     "uptimeMonth": "97.53%",
     "uptimeYear": "99.23%",
     "time": 1396,
     "timeDay": 1312,
     "timeWeek": 1324,
     "timeMonth": 1377,
-    "timeYear": 1420,
+    "timeYear": 1421,
     "dailyMinutesDown": {
-      "2025-06-12": 27,
+      "2025-06-12": 28,
       "2025-06-09": 20,
       "2025-06-08": 157,
       "2025-06-06": 98,
@@ -317,7 +317,7 @@
       "2025-04-08": 35,
       "2025-04-07": 20,
       "2025-04-06": 164,
-      "2025-04-05": 107
+      "2025-04-05": 86
     }
   },
   {
@@ -325,9 +325,9 @@
     "url": "$THIRD_PARTY_IMG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party-img",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "98.14%",
+    "uptimeDay": "98.11%",
     "uptimeWeek": "97.18%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "99.25%",
@@ -389,8 +389,7 @@
       "2025-04-02": 23,
       "2025-04-01": 33,
       "2025-03-31": 55,
-      "2025-03-30": 95,
-      "2025-03-29": 32
+      "2025-03-30": 95
     }
   },
   {
@@ -403,14 +402,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.84%",
+    "uptimeYear": "86.83%",
     "time": 989,
     "timeDay": 621,
     "timeWeek": 687,
     "timeMonth": 707,
-    "timeYear": 942,
+    "timeYear": 941,
     "dailyMinutesDown": {
-      "2025-06-12": 526,
+      "2025-06-12": 589,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -467,18 +466,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-kg",
     "status": "down",
-    "uptime": "81.27%",
+    "uptime": "81.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.02%",
+    "uptimeYear": "65.01%",
     "time": 302,
     "timeDay": 112,
     "timeWeek": 138,
     "timeMonth": 143,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-06-12": 526,
+      "2025-06-12": 589,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -642,7 +641,7 @@
     "timeDay": 319,
     "timeWeek": 250,
     "timeMonth": 267,
-    "timeYear": 5831,
+    "timeYear": 5852,
     "dailyMinutesDown": {
       "2025-02-14": 170,
       "2025-02-09": 628,
