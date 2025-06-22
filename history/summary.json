@@ -253,19 +253,19 @@
     "url": "$THIRD_PARTY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "98.85%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "98.26%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 1399,
     "timeDay": 1348,
     "timeWeek": 1343,
     "timeMonth": 1335,
     "timeYear": 1425,
     "dailyMinutesDown": {
-      "2025-06-22": 19,
+      "2025-06-22": 20,
       "2025-06-21": 54,
       "2025-06-18": 42,
       "2025-06-15": 19,
@@ -316,7 +316,7 @@
       "2025-04-09": 128,
       "2025-04-08": 35,
       "2025-04-07": 20,
-      "2025-04-06": 118
+      "2025-04-06": 93
     }
   },
   {
@@ -324,12 +324,12 @@
     "url": "$THIRD_PARTY_IMG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party-img",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "98.68%",
+    "uptimeDay": "98.65%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "98.38%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 1297,
     "timeDay": 1318,
     "timeWeek": 1295,
@@ -389,8 +389,7 @@
       "2025-04-05": 147,
       "2025-04-04": 116,
       "2025-04-03": 36,
-      "2025-04-02": 23,
-      "2025-04-01": 33
+      "2025-04-02": 23
     }
   },
   {
@@ -403,14 +402,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.98%",
+    "uptimeYear": "83.97%",
     "time": 987,
     "timeDay": 474,
     "timeWeek": 792,
     "timeMonth": 763,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-06-22": 1153,
+      "2025-06-22": 1194,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -488,7 +487,7 @@
     "timeMonth": 145,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2025-06-22": 1153,
+      "2025-06-22": 1194,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
