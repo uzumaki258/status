@@ -225,9 +225,9 @@
     "url": "$THIRD_PARTY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "98.55%",
     "uptimeWeek": "98.59%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.21%",
@@ -237,7 +237,7 @@
     "timeMonth": 1357,
     "timeYear": 1403,
     "dailyMinutesDown": {
-      "2025-07-30": 20,
+      "2025-07-30": 21,
       "2025-07-28": 95,
       "2025-07-25": 27,
       "2025-07-21": 22,
@@ -294,8 +294,7 @@
       "2025-04-20": 73,
       "2025-04-19": 118,
       "2025-04-18": 20,
-      "2025-04-17": 24,
-      "2025-04-15": 23
+      "2025-04-17": 24
     }
   },
   {
@@ -303,9 +302,9 @@
     "url": "$THIRD_PARTY_IMG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party-img",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "98.65%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "98.76%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.24%",
@@ -376,8 +375,7 @@
       "2025-04-13": 33,
       "2025-04-12": 68,
       "2025-04-11": 36,
-      "2025-04-09": 125,
-      "2025-04-08": 18
+      "2025-04-09": 125
     }
   },
   {
@@ -390,14 +388,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "73.59%",
+    "uptimeYear": "73.58%",
     "time": 942,
     "timeDay": 957,
     "timeWeek": 647,
     "timeMonth": 804,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2025-07-30": 1071,
+      "2025-07-30": 1100,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -506,14 +504,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "51.77%",
+    "uptimeYear": "51.76%",
     "time": 258,
     "timeDay": 135,
     "timeWeek": 131,
     "timeMonth": 144,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-07-30": 1071,
+      "2025-07-30": 1100,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -702,14 +700,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.88%",
+    "uptimeYear": "90.87%",
     "time": 297,
     "timeDay": 130,
     "timeWeek": 132,
     "timeMonth": 146,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-07-30": 1071,
+      "2025-07-30": 1100,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
