@@ -1,7 +1,7 @@
 url: $MAINDATALSWEB
-status: down
-code: 404
-responseTime: 293
-lastUpdated: 2026-03-17T23:38:54.320Z
+status: up
+code: 200
+responseTime: 257
+lastUpdated: 2026-03-18T03:46:15.558Z
 startTime: 2023-04-14T08:53:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
