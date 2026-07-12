@@ -1,7 +1,7 @@
 url: $THIRD_PARTY_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-12T11:57:01.009Z
+status: up
+code: 200
+responseTime: 1270
+lastUpdated: 2026-07-12T12:58:06.858Z
 startTime: 2023-04-14T10:01:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
