@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "33.99%",
+    "uptimeYear": "33.97%",
     "time": 11217,
     "timeDay": 38947,
     "timeWeek": 39030,
     "timeMonth": 42348,
     "timeYear": 17256,
     "dailyMinutesDown": {
-      "2026-07-13": 85,
+      "2026-07-13": 168,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -434,12 +434,12 @@
     "uptime": "98.32%",
     "uptimeDay": "68.50%",
     "uptimeWeek": "60.07%",
-    "uptimeMonth": "49.02%",
-    "uptimeYear": "94.56%",
+    "uptimeMonth": "48.90%",
+    "uptimeYear": "94.54%",
     "time": 1929,
     "timeDay": 1686,
     "timeWeek": 1719,
-    "timeMonth": 1702,
+    "timeMonth": 1703,
     "timeYear": 1972,
     "dailyMinutesDown": {
       "2026-06-06": 282,
@@ -479,7 +479,7 @@
       "2026-07-10": 548,
       "2026-07-11": 460,
       "2026-07-12": 523,
-      "2026-07-13": 7
+      "2026-07-13": 91
     }
   },
   {
@@ -491,12 +491,12 @@
     "uptime": "98.35%",
     "uptimeDay": "70.51%",
     "uptimeWeek": "61.36%",
-    "uptimeMonth": "49.95%",
-    "uptimeYear": "94.65%",
+    "uptimeMonth": "49.84%",
+    "uptimeYear": "94.63%",
     "time": 1287,
     "timeDay": 1321,
     "timeWeek": 1231,
-    "timeMonth": 1212,
+    "timeMonth": 1215,
     "timeYear": 1287,
     "dailyMinutesDown": {
       "2026-06-06": 273,
@@ -536,7 +536,7 @@
       "2026-07-10": 528,
       "2026-07-11": 441,
       "2026-07-12": 495,
-      "2026-07-13": 3
+      "2026-07-13": 86
     }
   },
   {
@@ -556,7 +556,7 @@
     "timeMonth": 591,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2026-07-13": 85,
+      "2026-07-13": 169,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -929,7 +929,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-kg",
     "status": "down",
-    "uptime": "51.43%",
+    "uptime": "51.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -940,7 +940,7 @@
     "timeMonth": 652,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-07-13": 85,
+      "2026-07-13": 169,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -1324,7 +1324,7 @@
     "timeMonth": 571,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-07-13": 85,
+      "2026-07-13": 169,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -1697,11 +1697,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emtk",
     "status": "down",
-    "uptime": "72.02%",
+    "uptime": "72.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.07%",
+    "uptimeYear": "43.06%",
     "time": 251,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1854,7 +1854,7 @@
       "2026-04-28": 156,
       "2026-04-29": 144,
       "2026-05-02": 68,
-      "2026-07-13": 85,
+      "2026-07-13": 169,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
