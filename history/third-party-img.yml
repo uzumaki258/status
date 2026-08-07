@@ -1,7 +1,7 @@
 url: $THIRD_PARTY_IMG
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-07T10:24:22.983Z
+status: up
+code: 200
+responseTime: 1517
+lastUpdated: 2026-08-07T11:10:06.143Z
 startTime: 2023-04-14T10:01:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
