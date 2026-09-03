@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.75%",
+    "uptimeYear": "19.72%",
     "time": 16502,
     "timeDay": 19665,
     "timeWeek": 39063,
     "timeMonth": 37173,
     "timeYear": 25441,
     "dailyMinutesDown": {
-      "2026-09-03": 74,
+      "2026-09-03": 194,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -483,14 +483,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "60.68%",
-    "uptimeWeek": "77.18%",
-    "uptimeMonth": "82.74%",
-    "uptimeYear": "98.56%",
+    "uptime": "99.57%",
+    "uptimeDay": "52.34%",
+    "uptimeWeek": "76.66%",
+    "uptimeMonth": "82.46%",
+    "uptimeYear": "98.54%",
     "time": 1993,
     "timeDay": 1874,
-    "timeWeek": 1990,
+    "timeWeek": 1968,
     "timeMonth": 1969,
     "timeYear": 2024,
     "dailyMinutesDown": {
@@ -510,7 +510,7 @@
       "2026-08-31": 476,
       "2026-09-01": 517,
       "2026-09-02": 562,
-      "2026-09-03": 6
+      "2026-09-03": 126
     }
   },
   {
@@ -519,14 +519,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "third-party-img",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "61.68%",
-    "uptimeWeek": "77.61%",
-    "uptimeMonth": "82.98%",
-    "uptimeYear": "98.58%",
+    "uptime": "99.57%",
+    "uptimeDay": "53.35%",
+    "uptimeWeek": "77.09%",
+    "uptimeMonth": "82.70%",
+    "uptimeYear": "98.56%",
     "time": 1283,
     "timeDay": 1016,
-    "timeWeek": 1186,
+    "timeWeek": 1152,
     "timeMonth": 1267,
     "timeYear": 1284,
     "dailyMinutesDown": {
@@ -547,7 +547,7 @@
       "2026-08-31": 467,
       "2026-09-01": 507,
       "2026-09-02": 553,
-      "2026-09-03": 1
+      "2026-09-03": 121
     }
   },
   {
@@ -556,7 +556,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-uq",
     "status": "down",
-    "uptime": "56.11%",
+    "uptime": "56.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -567,7 +567,7 @@
     "timeMonth": 676,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2026-09-03": 75,
+      "2026-09-03": 195,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -940,7 +940,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-kg",
     "status": "down",
-    "uptime": "49.06%",
+    "uptime": "49.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -951,7 +951,7 @@
     "timeMonth": 572,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2026-09-03": 75,
+      "2026-09-03": 195,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -1335,7 +1335,7 @@
     "timeMonth": 622,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2026-09-03": 75,
+      "2026-09-03": 195,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
